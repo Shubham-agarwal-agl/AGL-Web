@@ -12,7 +12,7 @@ AGL-Web
 		Scripts
 		pyenv.cfg
 	aglweb_dj		- django project
-		Home
-		manage.py
+	db.sqlite3
+	manage.py
     README.md
     requirments.txt
